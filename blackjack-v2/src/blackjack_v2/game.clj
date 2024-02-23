@@ -71,7 +71,7 @@
       (recur player-with-more-cards fn-decision-continue?))
     player))
 
-; se ambos passaram de 21 -> ambos perderam
+
 ; se pontos iguais -> empatou
 ; se player passou de 21 -> adversario ganhou
 ; se adversario passou de 21 -> player ganhou
